@@ -1,96 +1,85 @@
-Berakah
+# Berakah
 
-About Berakah
+## About Berakah
 
-Berakah is a cleaning company that helps small businesses keep their spaces clean and professional. This project created a website for Berakah, making it easy for customers to book services and contact the company. The website is also optimized for search engines to help more people find Berakah online.
+Berakah is a cleaning company that helps small businesses keep their spaces clean and professional. This is a freelance project where I created a website for Berakah, making it easy for customers to book services and contact the company. The website is also optimized for search engines to help more people find Berakah online.
 
-Tools Used
+# Tools Used
 
 The website was built using modern web tools to make it fast, easy to use, and good-looking.
 
-Frontend:
+# Frontend:
 
-React.js – To build the website
+- React.js – To build the website
 
-Next.js – To make the website fast and efficient
+- Next.js – To make the website fast and efficient
 
-TypeScript – To make the code safer and easier to maintain
+- TypeScript – To make the code safer and easier to maintain
 
-Tailwind CSS – To style the website quickly
+- Tailwind CSS – To style the website quickly
 
-ShadCN/UI – To add ready-to-use design components
+- ShadCN/UI – To add ready-to-use design components
 
-Lucide Icons – To add modern icons
+- Lucide Icons – To add modern icons
 
-Framer Motion – To create smooth animations
+- Framer Motion – To create smooth animations
 
-Services & Integrations:
+# Services & Integrations:
 
-Calendly – To allow easy appointment booking
+- Calendly – To allow easy appointment booking
 
-EmailJS – To send emails from the contact form
+- EmailJS – To send emails from the contact form
 
-SEO Optimization – To help more people find Berakah online
+- SEO Optimization – To help more people find Berakah online
 
-Features
+# Features
 
-Easy Booking – Customers can schedule appointments with Calendly
+- Easy Booking – Customers can schedule appointments with Calendly
 
-Contact Form – Users can send messages via EmailJS
+- Contact Form – Users can send messages via EmailJS
 
-SEO Optimization – Helps the website rank better on search engines
+- SEO Optimization – Helps the website rank better on search engines
 
-Mobile Friendly – The website works well on all devices
+- Mobile Friendly – The website works well on all devices
 
-Dark Mode – Users can switch between light and dark themes
+- Dark Mode – Users can switch between light and dark themes
 
-How to Set Up the Website
+# How to Set Up the Website
 
 Follow these steps to set up the website on your computer:
 
-What You Need:
+# What You Need:
 
-Install Node.js (Version 16 or higher recommended)
+- Install Node.js (Version 16 or higher recommended)
 
-Steps:
 
-Download the project:
+# Download the project:
 
-git clone https://github.com/your-username/berakah.git
+- git clone https://github.com/your-username/berakah.git
 cd berakah
 
-Install necessary files:
+# Install necessary files:
 
-npm install
+- npm install
 
-Create a .env file in the project folder and add your details (like EmailJS keys and SEO settings).
+- Create a .env file in the project folder and add your details (like EmailJS keys and SEO settings).
 
-Start the website:
+# Start the website:
 
-npm run dev
+- npm run dev
 
-Open http://localhost:3000 in a browser to see the website.
-
-How to Publish the Website
-
-The Berakah website can be published using:
-
-Vercel (best for Next.js websites)
-
-Netlify (for hosting frontend websites)
-
-License
-
+- Open http://localhost:3000 in a browser to see the website.
 This project is open-source under the MIT License.
 
-Contact
+# Contact
 
 For questions or support, contact:
 
-Email: [your-email@example.com]
+- Email: nestorisraelhernandez@gmail.com
 
-GitHub: [https://github.com/your-username]
+- GitHub: https://github.com/Nestorhernandez23
 
-LinkedIn: [https://linkedin.com/in/your-profile]
+- LinkedIn: https://www.linkedin.com/in/nestor-hernandez100/
 
 Thank you for visiting Berakah's website! 😊
+
