@@ -91,11 +91,11 @@ export default function Footer() {
             <ul className="space-y-2">
               <li className="flex justify-center md:justify-start items-center space-x-2">
                 <Phone className="h-5 w-5 text-gray-300" />
-                <span className="text-gray-300">(555) 123-4567</span>
+                <span className="text-gray-300">(801)610-6548</span>
               </li>
               <li className="flex justify-center md:justify-start items-center space-x-2">
                 <Mail className="h-5 w-5 text-gray-300" />
-                <span className="text-gray-300">info@berakahcleaning.com</span>
+                <span className="text-gray-300">Berakahcleaningser@gmail.com</span>
               </li>
             </ul>
           </div>
