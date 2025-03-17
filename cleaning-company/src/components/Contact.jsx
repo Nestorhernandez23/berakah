@@ -73,15 +73,7 @@ export default function Contact() {
               <p className="text-sm text-gray-500">
                 Reach out to us through any of these channels
               </p>
-              <div className="flex items-start space-x-4">
-                <div className="h-6 w-6 text-blue-500">📍</div>
-                <div>
-                  <h4 className="font-semibold">Address</h4>
-                  <p className="text-sm text-gray-500">
-                    2186 Cimmaron Dr Springville, UT 84663
-                  </p>
-                </div>
-              </div>
+
               <div className="flex items-start space-x-4">
                 <div className="h-6 w-6 text-blue-500">📞</div>
                 <div>
@@ -105,9 +97,7 @@ export default function Contact() {
                   <p className="text-sm text-gray-500">
                     Mon - Fri: 8:00 AM - 5:00 PM
                   </p>
-                  <p className="text-sm text-gray-500">
-                    Sat: Closed
-                  </p>
+                  <p className="text-sm text-gray-500">Sat: Closed</p>
                   <p className="text-sm text-gray-500">Sun: Closed</p>
                 </div>
               </div>
